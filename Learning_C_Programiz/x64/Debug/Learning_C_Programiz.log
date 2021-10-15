@@ -1,0 +1,7 @@
+﻿D:\Visual Studio\VS Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Learning_C_Programiz.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.c
+C:\Users\andre\OneDrive\Important Documents\Andreas\Freizeit\Development\HSLU\C Lernen Programiz\Learning_C_Programiz\Learning_C_Programiz\main.c(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\andre\OneDrive\Important Documents\Andreas\Freizeit\Development\HSLU\C Lernen Programiz\Learning_C_Programiz\Learning_C_Programiz\main.c(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\andre\OneDrive\Important Documents\Andreas\Freizeit\Development\HSLU\C Lernen Programiz\Learning_C_Programiz\Learning_C_Programiz\main.c(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\andre\OneDrive\Important Documents\Andreas\Freizeit\Development\HSLU\C Lernen Programiz\Learning_C_Programiz\Learning_C_Programiz\main.c(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Learning_C_Programiz.vcxproj -> C:\Users\andre\OneDrive\Important Documents\Andreas\Freizeit\Development\HSLU\C Lernen Programiz\Learning_C_Programiz\x64\Debug\Programiz_C-Introduction.exe
