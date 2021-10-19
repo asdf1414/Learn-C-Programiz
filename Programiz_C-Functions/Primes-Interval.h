@@ -1,3 +1,3 @@
-void primesInterval(int t1, int t2) {
+void primesInterval(int t1) {
 
 }
